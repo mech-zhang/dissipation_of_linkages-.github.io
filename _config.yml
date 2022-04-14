@@ -1,13 +1,21 @@
 theme: jekyll-theme-time-machine
 
 # Site settings
-title: 含耗散的拉格朗日方程    				  	#你博客的标题
+title: 含耗散的拉格朗日方程    				  	# title一般是网站的名称，显示在浏览器的页签上。
+description: "Zhang Peng Blog"  			 # 一般是网站的描述
+url: "https://mech-zhang.github.io/dissipation_of_linkages.github.io/"    # 一般是网站部署后的域名，用于访问网页时正确定位资源路径，如果涉及到自定义域名，需要在此配置，才能正确访问。
+baseurl: "/"                          # 一般是指当前网站的内容路径，如果就在根目录下，就默认为“/”或“”，如果放在下一级目录中，需要在此配置指定。
+author:                              # 相关项，一般是主题作者定义的属性，用于配置在网站上显示的作者相关信息，按_config.yml中的注释进行配置即可
+  name:"zhang彭"
+  email: 1254258389@qq.com
+  url: "https://mech-zhang.github.io/dissipation_of_linkages.github.io/"
+  
+
 SEOTitle: 耗散 | 张鹏    	         #显示在浏览器上搜索的时候显示的标题
 header-img: 图像/壁纸精选 (56).jpg  	  #显示在首页的背景图片
-email: 1254258389@qq.com	
-description: "Zhang Peng Blog"  			 #网站介绍
+	
+
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 张鹏" #关键词
-url: "https://mech-zhang.github.io/dissipation_of_linkages.github.io/"          # 这个就是填写你的博客地址
 
 
 # 侧边栏
