@@ -1,5 +1,5 @@
 # dissipation_of_linkages-.github.io
-Dynamics equation of linkage with dissipation function
+Dynamics equation of linkage with dissipation function  
 含耗散函数连杆机构的动力学方程
 ****
 # 根据拉格朗日方程计算广义坐标
