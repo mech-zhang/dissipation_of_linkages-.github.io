@@ -12,7 +12,7 @@ author:                              # 相关项，一般是主题作者定义�
   
 
 SEOTitle: 耗散 | 张鹏    	         #显示在浏览器上搜索的时候显示的标题
-header-img: img/壁纸精选 (56).jpg    #显示在首页的背景图片i	
+header-img: /img/壁纸精选 (56).jpg    #显示在首页的背景图片i	
 	
 
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 张鹏" #关键词
