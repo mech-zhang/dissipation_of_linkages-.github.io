@@ -1,1 +1,11 @@
 theme: jekyll-theme-leap-day
+
+# Site settings
+title: 含耗散的拉格朗日方程    				  	#你博客的标题
+SEOTitle: 耗散 | 张鹏    	         #显示在浏览器上搜索的时候显示的标题
+header-img: img/壁纸精选(56).jpg  	  #显示在首页的背景图片
+email: 1254258389@qq.com	
+description: "Zhang Peng Blog"  			 #网站介绍
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 张鹏" #关键词
+url: "https://mech-zhang.github.io/dissipation_of_linkages.github.io/"          # 这个就是填写你的博客地址
+
