@@ -3,7 +3,7 @@ theme: jekyll-theme-time-machine
 # Site settings
 title: 含耗散的拉格朗日方程    				  	#你博客的标题
 SEOTitle: 耗散 | 张鹏    	         #显示在浏览器上搜索的时候显示的标题
-header-img: img/壁纸精选(56).jpg  	  #显示在首页的背景图片
+header-img: 图像/壁纸精选 (56).jpg  	  #显示在首页的背景图片
 email: 1254258389@qq.com	
 description: "Zhang Peng Blog"  			 #网站介绍
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 张鹏" #关键词
@@ -13,7 +13,7 @@ url: "https://mech-zhang.github.io/dissipation_of_linkages.github.io/"          
 # 侧边栏
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "细腻为人，细致为事！"
-sidebar-avatar:/img/2031.jpg      # 你的个人头像
+sidebar-avatar:/图像/2031.jpg      # 你的个人头像
 
 
 
